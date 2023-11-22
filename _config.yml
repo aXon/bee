@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Solent BEEA
+description: Information for students on the BEng (Hons) Electronic Engineering Apprenticeship (BEEA) course
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://axon.github.io/beea
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
